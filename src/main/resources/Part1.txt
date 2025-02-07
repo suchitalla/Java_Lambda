@@ -1,0 +1,4 @@
+VMware Spring is a certification program that focuses on the Spring Framework,
+a popular open-source framework for building Java applications. The certification program
+covers various topics related to the Spring Framework and its ecosystem, including Spring Core,
+Spring MVC, Spring Data, Spring Security, Spring Boot, and more.
