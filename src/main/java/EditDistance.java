@@ -12,7 +12,7 @@ for(int i=0;i<2;i++) {
     public static void editdistance(){
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter word to be converted which word and number of operations");
+        System.out.println("Enter word to be converted which word and number of operations executed");
 
         String word1 = sc.next(); //word1 = horse
         String word2 = sc.next();//word2 = ros
